@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20250918"
+version: "20251102"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -168,6 +168,7 @@ use_preset_vocabulary: false
 𠒐	wjke;kw	0
 圕	tuuugr;ku	0
 𱕸	tuuugr;ku	0
+𲒅	hets;kk	0
 
 # 一些會對正常輸入造成干擾的字, 直接禁用掉
 #𱍒	dd;dy	0
@@ -17784,8 +17785,8 @@ use_preset_vocabulary: false
 彥	yj;wp	0
 彦	yj;ip	44325
 彦	yj;wp	44325
+彧	yu;ph	2681
 彧	yu;kp	2681
-彧	yu;hd	2681
 彧	yu;hp	2681
 彨	ii;pl	0
 彩	cl;pc	274800
@@ -28588,12 +28589,10 @@ use_preset_vocabulary: false
 瞽	gu;og	401
 瞾	vk;ko	0
 瞾	vk;ok	0
-瞿	ju;vo	0
 瞿	ju;ov	0
-瞿	ju;vm	0
-瞿	qu;vo	7952
+瞿	ju;vo	0
 瞿	qu;ov	7952
-瞿	qu;vm	7952
+瞿	qu;vo	7952
 矀	wz;ow	0
 矁	ib;oi	0
 矁	qq;oi	0
@@ -33789,9 +33788,9 @@ use_preset_vocabulary: false
 萙	vf;cv	0
 萚	to;cz	1
 萛	jq;cc	0
-萛	jq;cm	0
+萛	jq;co	0
 萛	sr;cc	0
-萛	sr;cm	0
+萛	sr;co	0
 萜	tx;ct	21
 萝	lo;cl	33284
 萞	bi;cb	0
@@ -45496,8 +45495,11 @@ use_preset_vocabulary: false
 𠄵	ku;aa	0
 𠄵	ug;aa	0
 𠄵	zl;aa	0
+𠄷	ji;ka	0
 𠄷	ji;ea	0
+𠄷	qi;ka	0
 𠄷	qi;ea	0
+𠄷	vl;ka	0
 𠄷	vl;ea	0
 𠄸	ji;aa	0
 𠄹	ji;aa	0
@@ -62462,7 +62464,7 @@ use_preset_vocabulary: false
 𣗩	ia;ml	0
 𣗪	ia;mi	0
 𣗬	qq;mi	0
-𣗭	yu;ma	0
+𣗭	yt;ma	0
 𣗲	gj;mg	0
 𣗲	gj;qm	0
 𣗳	uu;mc	0
@@ -63697,7 +63699,6 @@ use_preset_vocabulary: false
 𣦤	vg;dv	0
 𣦥	qi;vy	0
 𣦦	gv;so	0
-𣦦	gv;sm	0
 𣦧	vv;si	0
 𣦨	gv;pl	0
 𣦨	gv;vl	0
@@ -70824,7 +70825,7 @@ use_preset_vocabulary: false
 𥇡	yi;sg	0
 𥇡	ze;sg	0
 𥇢	vj;ov	0
-𥇤	jx;mj	0
+𥇤	jx;oj	0
 𥇤	jx;of	0
 𥇥	jm;ok	0
 𥇦	xi;ox	0
@@ -76187,7 +76188,7 @@ use_preset_vocabulary: false
 𦕈	mi;eu	0
 𦕉	ua;eu	0
 𦕉	ua;ue	0
-𦕊	pn;ek	0
+𦕊	pn;eg	0
 𦕋	wh;ey	0
 𦕌	wf;eu	0
 𦕌	wf;ue	0
@@ -100478,7 +100479,7 @@ use_preset_vocabulary: false
 𫡹	jq;aa	0
 𫡹	jq;ea	0
 𫡺	sv;wu	0
-𫡼	ck;mm	0
+𫡼	ck;wo	0
 𫡼	ck;mo	0
 𫡿	by;wm	0
 𫡿	ln;wm	0
@@ -121047,7 +121048,7 @@ use_preset_vocabulary: false
 𲐗	xi;ra	0
 𲐘	qi;rq	0
 𲐙	mu;rm	0
-𲐛	py;rg	0
+𲐛	py;rk	0
 𲐜	qm;rq	0
 𲐜	qm;rd	0
 𲐜	yb;rq	0
@@ -124414,6 +124415,9 @@ use_preset_vocabulary: false
 𮐼	zh;cg	0
 𮮡	yk;ky	0
 𮮡	yk;ay	0
+𩢆	ig;mk	0
+𰀊	py;kk	0
+𰀊	py;ag	0
 
 的	dE;bu	8280176
 我	wQ;pd	7699250
@@ -128454,8 +128458,8 @@ use_preset_vocabulary: false
 冏	jF;kk	68
 蛛	vU;iv	67
 逊	xO;zs	67
+彧	yC;ph	67
 彧	yC;kp	67
-彧	yC;hd	67
 彧	yC;hp	67
 咛	nU;kn	67
 澜	lK;dl	67
@@ -130451,9 +130455,8 @@ use_preset_vocabulary: false
 担	dH;fd	6
 雉	vU;vu	6
 雉	vU;uv	6
-瞿	qB;vo	6
 瞿	qB;ov	6
-瞿	qB;vm	6
+瞿	qB;vo	6
 湛	vH;du	6
 萦	yU;cs	6
 萦	yU;sb	6
@@ -155950,12 +155953,10 @@ use_preset_vocabulary: false
 瞼	jX;oq	1
 瞾	vJ;ko	1
 瞾	vJ;ok	1
-瞿	jC;vo	1
 瞿	jC;ov	1
-瞿	jC;vm	1
-瞿	jO;vo	1
+瞿	jC;vo	1
 瞿	jO;ov	1
-瞿	jO;vm	1
+瞿	jO;vo	1
 矀	mX;ow	1
 矁	iM;oi	1
 矂	sJ;oz	1
@@ -159733,7 +159734,7 @@ use_preset_vocabulary: false
 萗	cW;cz	1
 萙	vH;cv	1
 萛	jQ;cc	1
-萛	jQ;cm	1
+萛	jQ;co	1
 萞	bU;cb	1
 萟	yU;cv	1
 萟	yU;cw	1
@@ -174126,7 +174127,6 @@ use_preset_vocabulary: false
 𣦢	bU;vp	0
 𣦢	bU;pv	0
 𣦦	gC;so	0
-𣦦	gC;sm	0
 𣦩	gO;vp	0
 𣦪	bI;vy	0
 𣦪	bI;yv	0

@@ -192227,7 +192227,7 @@ use_preset_vocabulary: false
 去陌生的地方	qc;ts mi;eb ug;na de;bu du;ty fh;wd	100
 驅魔師	qv;mq mp;gm ui;vb	100
 驅魔天師	qv;mq mp;gm tm;ad ui;vb	100
-瞿末予	qb;vo mi;ad yn;sa	100
+瞿末予	qb;ov mi;ad yn;sa	100
 去某地	qc;ts mc;mg du;ty	100
 去某個地方	qc;ts mc;mg gw;rg du;ty fh;wd	100
 去墓地	qc;ts my;tm du;ty	100
@@ -192528,7 +192528,7 @@ use_preset_vocabulary: false
 取消限號	qn;ey xn;dx xn;eg hx;hh	100
 取消限行	qn;ey xn;dx xn;eg xl;xi	100
 取消校考	qn;ey xn;dx xb;mj kb;lk	100
-瞿曉星	qb;vo xz;oy xk;ou	100
+瞿曉星	qb;ov xz;oy xk;ou	100
 取消行程	qn;ey xn;dx xl;xi ih;hi	100
 取消隱藏	qn;ey xn;dx ym;ej cj;cz	100
 去校園	qc;ts xb;mj yt;ky	100
@@ -210074,7 +210074,7 @@ use_preset_vocabulary: false
 神學研究所	ug;uu xy;zb yk;uk jq;xj sq;hj	100
 申雪趙宏博	uf;aa xu;yx vx;zx hd;bh bp;uc	100
 審訊結果	uh;bf xt;yu jq;sj gq;tm	100
-神荀彧	ug;uu xu;cx yc;kp	100
+神荀彧	ug;uu xu;cx yc;ph	100
 神眼湖	ug;uu yl;og hi;dh	100
 慎言慎行	ud;xv yk;wk ud;xv xl;xi	100
 瀋陽地區	uh;df yj;ey du;ty qv;kp	100
@@ -243753,7 +243753,7 @@ use_preset_vocabulary: false
 王傳喜	wj;aa it;rv xp;uk	100
 網傳消息	wk;sw it;rv xn;dx xi;xz	100
 網傳信息	wk;sw it;rv xv;ry xi;xz	100
-王春彧	wj;aa iy;of yc;kp	100
+王春彧	wj;aa iy;of yc;ph	100
 王翠玲	wj;aa cc;yz ll;wl	100
 王大錘	wj;aa dl;ad ib;ji	100
 王大導演	wj;aa dl;ad db;cd yl;dy	100

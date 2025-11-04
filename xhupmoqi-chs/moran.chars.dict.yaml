@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20250918"
+version: "20251102"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -154,6 +154,7 @@ use_preset_vocabulary: false
 𠒐	wj	0
 圕	tu;ko	0
 𱕸	tu	0
+𲒅	hets	0
 #𱍒	dd	0
 の	no	0
 ⺼	rz	0
@@ -52119,7 +52120,7 @@ use_preset_vocabulary: false
 𣗩	ia	0
 𣗪	ia	0
 𣗬	qq	0
-𣗭	yu	0
+𣗭	yt	0
 𣗲	gj;qm	0
 𣗳	uu	0
 𣗴	li	0
@@ -104721,6 +104722,8 @@ use_preset_vocabulary: false
 𮐼	ch	0
 𮐼	zh	0
 𮮡	yc	0
+𩢆	ig	0
+𰀊	pk	0
 
 的	dE;bu	8280176
 我	wQ;ga	7699250

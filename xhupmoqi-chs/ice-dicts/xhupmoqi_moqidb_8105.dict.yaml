@@ -18,7 +18,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2025-10-20"
+version: "2025-10-31"
 sort: by_weight
 ...
 ### 按需启用
@@ -4270,6 +4270,7 @@ sort: by_weight
 獴	mg;qu	73
 礞	mg;uu	12
 鹲	mg;cn	9
+氓	mg;wm	1
 㠓	mg;uu	0
 𫑡	mg;ke	0
 密	mi;bu	506110
@@ -7830,6 +7831,7 @@ sort: by_weight
 㺄	yu;qd	1
 尉	yu;uc	1
 艅	yu;vm	1
+菀	yu;cv	1
 蔚	yu;cc	1
 原	yr;ix	1473346
 远	yr;zy	1319096

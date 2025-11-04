@@ -156,6 +156,7 @@
 𠒐	wJke;kw	0
 圕	tUuugr;ku	0
 𱕸	tUuugr;ku	0
+𲒅	hEts;kk	0
 
 # 一些會對正常輸入造成干擾的字, 直接禁用掉
 #𱍒	dD;dy	0
@@ -17772,8 +17773,8 @@
 彥	yJ;wp	1720
 彦	yJ;ip	0
 彦	yJ;wp	0
+彧	yU;ph	663
 彧	yU;kp	663
-彧	yU;hd	663
 彧	yU;hp	663
 彨	iI;pl	0
 彩	cL;pc	2975
@@ -28576,12 +28577,10 @@
 瞽	gU;og	561
 瞾	vK;ko	425
 瞾	vK;ok	425
-瞿	jU;vo	0
 瞿	jU;ov	0
-瞿	jU;vm	0
-瞿	qU;vo	934
+瞿	jU;vo	0
 瞿	qU;ov	934
-瞿	qU;vm	934
+瞿	qU;vo	934
 矀	wZ;ow	234
 矁	iB;oi	364
 矁	qQ;oi	364
@@ -33777,9 +33776,9 @@
 萙	vF;cv	0
 萚	tO;cz	0
 萛	jQ;cc	295
-萛	jQ;cm	295
+萛	jQ;co	295
 萛	sR;cc	295
-萛	sR;cm	295
+萛	sR;co	295
 萜	tX;ct	621
 萝	lO;cl	0
 萞	bI;cb	0
@@ -45484,8 +45483,11 @@
 𠄵	kU;aa	0
 𠄵	uG;aa	0
 𠄵	zL;aa	0
+𠄷	jI;ka	0
 𠄷	jI;ea	0
+𠄷	qI;ka	0
 𠄷	qI;ea	0
+𠄷	vL;ka	0
 𠄷	vL;ea	0
 𠄸	jI;aa	0
 𠄹	jI;aa	0
@@ -62450,7 +62452,7 @@
 𣗩	iA;ml	0
 𣗪	iA;mi	0
 𣗬	qQ;mi	0
-𣗭	yU;ma	0
+𣗭	yT;ma	0
 𣗲	gJ;mg	0
 𣗲	gJ;qm	0
 𣗳	uU;mc	0
@@ -63685,7 +63687,6 @@
 𣦤	vG;dv	0
 𣦥	qI;vy	0
 𣦦	gV;so	0
-𣦦	gV;sm	0
 𣦧	vV;si	0
 𣦨	gV;pl	0
 𣦨	gV;vl	0
@@ -70812,7 +70813,7 @@
 𥇡	yI;sg	0
 𥇡	zE;sg	0
 𥇢	vJ;ov	0
-𥇤	jX;mj	0
+𥇤	jX;oj	0
 𥇤	jX;of	0
 𥇥	jM;ok	0
 𥇦	xI;ox	0
@@ -76175,7 +76176,7 @@
 𦕈	mI;eu	0
 𦕉	uA;eu	0
 𦕉	uA;ue	0
-𦕊	pN;ek	0
+𦕊	pN;eg	0
 𦕋	wH;ey	0
 𦕌	wF;eu	0
 𦕌	wF;ue	0
@@ -100466,7 +100467,7 @@
 𫡹	jQ;aa	0
 𫡹	jQ;ea	0
 𫡺	sV;wu	0
-𫡼	cK;mm	0
+𫡼	cK;wo	0
 𫡼	cK;mo	0
 𫡿	bY;wm	0
 𫡿	lN;wm	0
@@ -121035,7 +121036,7 @@
 𲐗	xI;ra	0
 𲐘	qI;rq	0
 𲐙	mU;rm	0
-𲐛	pY;rg	0
+𲐛	pY;rk	0
 𲐜	qM;rq	0
 𲐜	qM;rd	0
 𲐜	yB;rq	0
@@ -124402,3 +124403,6 @@
 𮐼	zH;cg	0
 𮮡	yK;ky	0
 𮮡	yK;ay	0
+𩢆	iG;mk	0
+𰀊	pY;kk	0
+𰀊	pY;ag	0

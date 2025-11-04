@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20251024"
+version: "20251031"
 sort: by_weight
 columns:
   - text

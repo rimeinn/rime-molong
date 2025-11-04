@@ -10,7 +10,7 @@
 
 ---
 name: moran.base
-version: "20251024"
+version: "20251031"
 sort: by_weight
 columns:
   - text
@@ -54102,7 +54102,7 @@ columns:
 抽的烟	ix;fy dr;bu yn;hy	1025
 仇敌	ia;rj db;wu	12285
 丑诋	iz;aa dg;yd	2
-愁抵瞿唐关上草	ia;xq dg;fd qm;vo tw;gk gd;qd ud;aa cx;cz	1
+愁抵瞿唐关上草	ia;xq dg;fd qm;ov tw;gk gd;qd ud;aa cx;cz	1
 抽点	ix;fy dp;hv	5640
 抽调	ix;fy dl;yv	51885
 抽掉	ix;fy dl;fv	4625
@@ -88274,7 +88274,7 @@ columns:
 东方罂粟	dk;ad fu;wd ye;fb sh;mx	1
 东方莹虾	dk;ad fu;wd yn;cy xd;ix	1
 东方雨虹	dk;ad fu;wd ys;ad hj;ig	53
-东方彧卿	dk;ad fu;wd yf;kp qe;mg	165
+东方彧卿	dk;ad fu;wd yf;ph qe;mg	165
 东方欲晓	dk;ad fu;wd yf;qg xl;oy	1910
 东方云海空复空	dk;ad fu;wd yf;es hu;dm kk;xg fh;wo kk;xg	6
 东方杂志	dk;ad fu;wd zu;jm vt;xu	1130
@@ -305332,7 +305332,7 @@ columns:
 去读	qf;ts dl;ym	9999
 去毒	qf;ts dl;fm	2760
 曲度	qs;aa dh;gy	310
-瞿独伊	qm;vo dl;qi yj;ry	195
+瞿独伊	qm;ov dl;qi yj;ry	195
 区段	qh;ki dc;ud	26725
 去兑奖	qf;ts df;bx ju;dx	166
 取对象	qs;ey df;cy xe;du	815
@@ -305638,7 +305638,7 @@ columns:
 取决	qs;ey ji;dd	999
 取绝对值	qs;ey ji;ss df;cy vb;rv	434
 取决于	qs;ey ji;dd ym;aa	260325
-瞿俊	qm;vo jr;rj	15
+瞿俊	qm;ov jr;rj	15
 去军事化	qf;ts jg;bi ut;aa hg;rb	146
 取卡	qs;ey km;ub	5555
 去开	qf;ts kb;ac	1111
@@ -305755,7 +305755,7 @@ columns:
 曲玛乡	qh;aa mm;wm xy;ap	2
 渠马镇	qm;mj mm;aa vo;jv	3
 去买	qf;ts mu;at	108025
-瞿麦	qm;vo mo;fw	16
+瞿麦	qm;ov mo;fw	16
 去买菜	qf;ts mu;at co;cc	3335
 苣荬菜	qs;cj mu;cm co;cc	111
 苣荬菜包子	qs;cj mu;cm co;cc bq;gs zj;aa	3
@@ -305921,7 +305921,7 @@ columns:
 去骑	qf;ts qb;mq	1080
 取齐	qs;ey qb;wa	910
 曲奇饼干	qs;aa qb;dk bw;ub gn;aa	982
-瞿启甲	qm;vo qg;hk jn;aa	1
+瞿启甲	qm;ov qg;hk jn;aa	1
 取其精华	qs;ey qb;ba je;mq ht;uh	4790
 娶妻如此	qs;nq qj;na rl;nk cg;vb	65
 娶妻生子	qs;nq qj;na uc;na zg;aa	3445
@@ -305948,7 +305948,7 @@ columns:
 取青妃白	qs;ey qe;of fi;nj bd;pa	1
 去清华	qf;ts qe;dq ht;uh	159
 去秋	qf;ts qz;hh	1615
-瞿秋白	qm;vo qz;hh bd;pa	6895
+瞿秋白	qm;ov qz;hh bd;pa	6895
 区区	qh;ki qh;ki	42125
 去取	qf;ts qs;ey	20470
 蛐蛐	qh;iq qh;iq	5590
@@ -306124,11 +306124,11 @@ columns:
 趣谈吃蟹	qf;zq tk;yy ij;kq xq;ij	1
 祛痰灵口服液	qh;uq tk;by ln;hx kz;aa fl;oy yi;dy	1
 祛痰药	qh;uq tk;by yv;cy	915
-瞿昙镇	qm;vo tk;oy vo;jv	7
+瞿昙镇	qm;ov tk;oy vo;jv	7
 去趟	qf;ts td;zu	33005
-瞿塘	qm;vo tw;tt	1760
+瞿塘	qm;ov tw;tt	1760
 曲塘	qh;aa tw;tt	395
-瞿塘峡	qm;vo tw;tt xc;uj	3165
+瞿塘峡	qm;ov tw;tt xc;uj	3165
 躯体	qh;uq tg;rb	64440
 曲体	qs;aa tg;rb	710
 躯体变形障碍	qh;uq tg;rb ba;wy xn;pk vd;ev ao;uc	7
@@ -306239,12 +306239,12 @@ columns:
 曲膝	qh;aa xj;oq	2455
 去吸	qf;ts xj;kj	1435
 取息	qs;ey xj;xz	1270
-瞿溪车站	qm;vo xj;dx ir;aa vj;lv	1
+瞿溪车站	qm;ov xj;dx ir;aa vj;lv	1
 曲溪村	qh;aa xj;dx cg;mc	6
 娶媳妇	qs;nq xb;nx fh;nx	7155
 曲溪街道	qh;aa xj;dx jk;xg dv;zu	7
 屈膝礼	qh;ui xj;oq lg;ug	340
-瞿溪路	qm;vo xj;dx lh;zg	68
+瞿溪路	qm;ov xj;dx lh;zg	68
 诎膝请和	qh;yi xj;oq qw;yq he;hk	1
 屈膝求和	qh;ui xj;oq qm;ad he;hk	13
 屈膝投降	qh;ui xj;oq ta;fu xi;ef	395
@@ -306323,7 +306323,7 @@ columns:
 屈姓	qh;ui xw;nu	2
 曲姓	qh;aa xw;nu	2
 璩姓	qm;wj xw;nu	2
-瞿姓	qm;vo xw;nu	2
+瞿姓	qm;ov xw;nu	2
 趋性反应	qh;zi xw;xu fo;py yw;ga	1
 取行李	qs;ey xn;xi lg;mz	655
 曲兴镇	qh;aa xe;ba vo;jv	156
@@ -306405,16 +306405,16 @@ columns:
 区一中	qh;ki yj;aa vk;aa	46
 取一字	qs;ey yj;aa zt;bz	70
 取意自	qs;ey yt;xy zt;pa	1
-瞿颖	qm;vo yw;yh	8075
-瞿应绍	qm;vo yw;ga uv;sv	3
+瞿颖	qm;ov yw;yh	8075
+瞿应绍	qm;ov yw;ga uv;sv	3
 取用	qs;ey yy;kf	22040
 去用	qf;ts yy;kf	1180
 取用不竭	qs;ey yy;kf bh;ad js;lh	4
 去油	qf;ts ya;dy	5810
-瞿祐	qm;vo yr;uy	5
+瞿祐	qm;ov yr;uy	5
 取友必端	qs;ey yz;yu bt;dd dd;le	3
 去游乐园	qf;ts ya;dz li;pd yo;ky	187
-瞿友宁	qm;vo yz;yu nn;bd	37
+瞿友宁	qm;ov yz;yu nn;bd	37
 去游泳	qf;ts ya;dz yn;dy	4960
 区域	qh;ki yf;th	500746
 趋于	qh;zi ym;aa	98480
@@ -306572,7 +306572,7 @@ columns:
 曲终人散	qs;aa vk;sd rs;pd sj;wo	5425
 曲终人散后	qs;aa vk;sd rs;pd sj;wo hr;pk	225
 曲终人散空愁暮	qs;aa vk;sd rs;pd sj;wo kk;xg ia;xq mh;om	3
-瞿中溶	qm;vo vk;aa rj;dr	1
+瞿中溶	qm;ov vk;aa rj;dr	1
 曲终收拨当心画	qs;aa vk;sd ux;wj bp;ff du;xx xh;dd hg;ak	1
 区中心	qh;ki vk;aa xh;dd	4800
 去中心化	qf;ts vk;aa xh;dd hg;rb	9999
@@ -321066,7 +321066,7 @@ columns:
 三月十五	sn;aa yd;pa ub;aa wm;aa	107
 三月四月	sn;aa yd;pa st;aa yd;pa	137
 三月五号	sn;aa yd;pa wm;aa hv;kk	154
-三月下瞿塘	sn;aa yd;pa xx;ab qm;vo tw;tt	1
+三月下瞿塘	sn;aa yd;pa xx;ab qm;ov tw;tt	1
 三月一日	sn;aa yd;pa yj;aa rt;aa	142
 三月中	sn;aa yd;pa vk;aa	113
 散在	sj;wo zo;ut	12640
@@ -434951,7 +434951,7 @@ columns:
 性趣	xw;xu qf;zq	13035
 星区	xe;ou qh;ki	970
 姓曲	xw;nu qh;aa	135
-姓瞿	xw;nu qm;vo	115
+姓瞿	xw;nu qm;ov	115
 姓屈	xw;nu qh;ui	80
 姓璩	xw;nu qm;wj	1
 兴趣爱好	xw;ba qf;zq ao;vy hv;nz	47370
@@ -442064,7 +442064,7 @@ columns:
 鲟鱼	xf;yx ym;da	4030
 熏鱼	xg;ha ym;da	1795
 训育	xr;yi yf;os	1005
-荀彧	xf;cx yf;kp	23
+荀彧	xf;cx yf;ph	23
 训谕	xr;yi yf;yy	2
 獯鬻	xg;qx yf;gv	1
 询于刍荛	xf;yx ym;aa il;dx ri;cy	80

@@ -8,7 +8,7 @@
 
 ---
 name: moran.moe
-version: "20251024"
+version: "20251031"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -28417,7 +28417,6 @@ use_preset_vocabulary: false
 完美犯罪情書	wj;by mw;dy fj;qe zv;sf qk;xq uu;oy
 完美生命	wj;by mw;dy ug;na mk;re
 完美相遇	wj;by mw;dy xl;mo yu;zy
-完美美少女般的天才正太與溺愛自己的漂亮姐姐共同創作震驚業界遊戲同時聽到製作遊戲的恐怖故事	wj;by mw;dy mw;dy uc;xp nv;aa bj;vu de;bu tm;ad cd;ap vg;av td;dd yu;ba ni;dr ai;vw zi;pa ji;ag de;bu pn;dp ll;wj jp;nq jp;nq gs;cb ts;kk il;dc zo;rv vf;yi jk;mj ye;yl jp;tj yz;zy xi;gd ts;kk ui;os tk;ex dc;dv vi;yv zo;rv yz;zy xi;gd de;bu ks;xg bu;xb gu;wg ui;aa
 完美通關	wj;by mw;dy ts;zy gr;ma
 完美音浪	wj;by mw;dy yb;lo lh;dl
 完蛋了	wj;by dj;ip le;aa
@@ -36445,7 +36444,7 @@ use_preset_vocabulary: false
 御劍信	yu;xx jm;dq xb;ry
 御劍冥夜	yu;xx jm;dq mk;bl ye;wd
 御劍悠陽	yu;xx jm;dq yz;xw yh;ey
-御劍憐侍	yu;xx jm;dq lm;xl ui;rs
+御劍怜侍	yu;xx jm;dq lk;xl ui;rs
 御劍精選集	yu;xx jm;dq jk;mq xr;zx ji;mv
 御劍紅塵	yu;xx jm;dq hs;sg if;tl
 御劍莉亞	yu;xx jm;dq li;cl ya;aa
@@ -69026,8 +69025,8 @@ use_preset_vocabulary: false
 瞳絆	ts;ot bj;sb
 瞳色	ts;ot se;db
 瞳音	ts;ot yb;lo
-瞿子蘭	qu;vo zi;aa lj;cj
-瞿折羅	qu;vo ve;fj lo;sv
+瞿子蘭	qu;ov zi;aa lj;cj
+瞿折羅	qu;ov ve;fj lo;sv
 矇蔽	mg;om bi;cb
 矛依未	mc;sp yi;ry ww;ex
 矛盾之月	mc;sp dy;po vi;dd yt;pa
@@ -69151,7 +69150,6 @@ use_preset_vocabulary: false
 知聲	vi;ku ug;eq
 知花明日香	vi;ku hx;ch mk;oo ri;aa xl;ho
 知萌姬	vi;ku mg;cm ji;ni
-知行合一動漫	vi;ku xk;xi he;rk yi;aa ds;lv mj;dm
 知行天地	vi;ku xk;xi tm;ad di;ty
 知道天空有多藍的人啊	vi;ku dc;zu tm;ad ks;xg yz;ou do;xx lj;cj de;bu rf;pd aa;ka
 知道清純美人學生會長祕密的陰角	vi;ku dc;zu qk;dq iy;st mw;dy rf;pd xt;zb ug;na hv;ro vh;ad mi;ub mi;ub de;bu yb;ey jn;dy
@@ -80860,7 +80858,7 @@ use_preset_vocabulary: false
 茸雪	rs;ce xt;yx
 荀元豐	xy;cx yr;aw fg;df
 荀子	xy;cx zi;aa
-荀彧	xy;cx yu;kp
+荀彧	xy;cx yu;ph
 荀采	xy;cx cd;vm
 荀攸	xy;cx yz;rw
 荀淑	xy;cx uu;du
@@ -99824,7 +99822,6 @@ use_preset_vocabulary: false
 露露亞的鍊金工房	lu;yl lu;yl ya;aa de;bu lm;jj jb;ra gs;aa fh;hf
 露露卡	lu;yl lu;yl ka;ub
 露露子	lu;yl lu;yl zi;aa
-露露拉露里露拉拉里拉拉露露里里拉里里拉拉露露拉拉露露拉拉里拉里	lu;yl lu;yl la;fl lu;yl li;aa lu;yl la;fl la;fl li;aa la;fl la;fl lu;yl lu;yl li;aa li;aa la;fl li;aa li;aa la;fl la;fl lu;yl lu;yl la;fl la;fl lu;yl lu;yl la;fl la;fl li;aa la;fl li;aa
 露露涅路易	lu;yl lu;yl np;dn lu;zg yi;ow
 露露緹耶	lu;yl lu;yl ti;su ye;ee
 露露緹雅	lu;yl lu;yl ti;su ya;vy
@@ -108576,7 +108573,7 @@ use_preset_vocabulary: false
 跳級	tn;zv ji;sj
 藤田璋	tg;ct tm;aa vh;wv
 蕾米貝克	lw;cl mi;dd bw;ob ke;eg
-瞿東豪	qu;vo ds;ad hc;ub
+瞿東豪	qu;ov ds;ad hc;ub
 狐白	hu;qg bd;pa
 藍色星原旅謠	lj;cj se;db xk;ou yr;ix lv;fp yc;yf
 拍動	pd;fb ds;lv
@@ -111057,7 +111054,7 @@ use_preset_vocabulary: false
 宇宙天狗	yu;by vz;by tm;ad gz;qj
 琉璃的寶石	lq;wi li;wl de;bu bc;bb ui;kp
 跛腳羊	bo;zp jn;oq yh;da
-瞿子千	qu;vo zi;aa qm;pa
+瞿子千	qu;ov zi;aa qm;pa
 啊嚏	aa;ka ti;kp
 神山誠十郎	uf;uu uj;aa ig;yi ui;aa lh;el
 北極百貨的秋乃小姐	bw;ag ji;ma bd;ab ho;bh de;bu qq;hh nd;pg xn;ad jp;nq
@@ -111129,7 +111126,7 @@ use_preset_vocabulary: false
 小島由依	xn;ad dc;nu yz;aa yi;ry
 衆生行記	vs;xd ug;na xk;xi ji;yj
 交響曲般戀愛	jn;li xl;yx qu;aa bj;vu lm;xs ai;vw
-荀彧荀攸	xy;cx yu;kp xy;cx yz;rw
+荀彧荀攸	xy;cx yu;ph xy;cx yz;rw
 影靈衣的舞姬	yk;pj lk;wl yi;dd de;bu wu;rf ji;ni
 共筆全書	gs;cb bi;vy qr;rw uu;oy
 彼時確是春日	bi;xp ui;os qt;uv ui;op iy;of ri;aa
@@ -116374,7 +116371,6 @@ use_preset_vocabulary: false
 夏日童話	xx;wz ri;aa ts;ll hx;yu
 完成這些任務	wj;by ig;gg ve;zy xp;ec rf;rr wu;mw
 區域與建築	qu;kp yu;th yu;ba jm;zy vu;vm
-曱甴	yt;aa va;aa
 七神琳	qi;ag uf;uu lb;wl
 騎士卡片	qi;mq ui;aa ka;ub pm;pa
 暗黑蠢動者	an;oy hw;ha iy;ii ds;lv ve;ol

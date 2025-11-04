@@ -18,7 +18,7 @@
 # 需要注音的字词设定在 others/script/rime/需要注音.txt
 ---
 name: 8105
-version: "2025-10-20"
+version: "2025-10-31"
 sort: by_weight
 ...
 ### 按需启用
@@ -4270,6 +4270,7 @@ sort: by_weight
 獴	mg;qm	73
 礞	mg;um	12
 鹲	mg;nm	9
+氓	mg;wm	1
 㠓	mg;um	0
 𫑡	mg;em	0
 密	mi;ub	506110
@@ -5260,7 +5261,7 @@ sort: by_weight
 趋	qu;zi	40579
 渠	qu;mj	25514
 觑	qu;jx	22005
-瞿	qu;vo	7952
+瞿	qu;ov	7952
 岖	qu;uq	4782
 蛐	qu;iq	4560
 蛆	qu;iq	4296
@@ -7780,7 +7781,7 @@ sort: by_weight
 谀	yu;yy	3139
 腴	yu;oy	2956
 盂	yu;my	2805
-彧	yu;kp	2681
+彧	yu;ph	2681
 庾	yu;gy	1850
 瘀	yu;by	1494
 燏	yu;hk	1308
@@ -7830,6 +7831,7 @@ sort: by_weight
 㺄	yu;qy	1
 尉	yu;cu	1
 艅	yu;vy	1
+菀	yu;cw	1
 蔚	yu;cw	1
 原	yr;ix	1473346
 远	yr;zy	1319096

@@ -6,7 +6,7 @@
 
 ---
 name: moran.chars
-version: "20250918"
+version: "20251102"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -58710,6 +58710,7 @@ use_preset_vocabulary: false
 𠒐	wJ	0
 圕	tU;ko	0
 𱕸	tU	0
+𲒅	hEts	0
 #𱍒	dD	0
 の	nO	0
 ⺼	rZ	0
@@ -110675,7 +110676,7 @@ use_preset_vocabulary: false
 𣗩	iA	0
 𣗪	iA	0
 𣗬	qQ	0
-𣗭	yU	0
+𣗭	yT	0
 𣗲	gJ;qm	0
 𣗳	uU	0
 𣗴	lI	0
@@ -163277,3 +163278,5 @@ use_preset_vocabulary: false
 𮐼	cH	0
 𮐼	zH	0
 𮮡	yC	0
+𩢆	iG	0
+𰀊	pK	0

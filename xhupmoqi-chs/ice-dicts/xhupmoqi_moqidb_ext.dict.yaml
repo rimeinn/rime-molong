@@ -11,7 +11,7 @@
 # - 简化字八股文 https://github.com/rime/rime-essay-simp
 ---
 name: ext
-version: "2025-10-23"
+version: "2025-11-01"
 sort: by_weight
 ...
 # +_+
@@ -8028,6 +8028,7 @@ sort: by_weight
 办复率	bj;lb fu;pw lv;wu	100
 半复赛	bj;bf fu;pw sd;bb	100
 半幅通行	bj;bf fu;jt ts;zy xk;rd	100
+半浮性卵	bj;bf fu;dz xk;xu lr;pd	100
 半干旱地区	bj;bf gj;au hj;og di;ty qu;kx	100
 扮高雅	bj;ff gc;wk ya;yv	100
 半个地球	bj;bf ge;rl di;ty qq;wq	100
@@ -8370,6 +8371,7 @@ sort: by_weight
 半兽人	bj;bf uz;bk rf;pn	100
 班淑传奇	bj;wl uu;dy ir;rv qi;dk	100
 半数以下	bj;bf uu;mw yi;lr xx;ab	100
+半数致死浓度	bj;bf uu;mw vi;gw si;db ns;dy du;gy	100
 半衰期长	bj;bf uk;yv qi;co ih;pn	100
 半睡半醒	bj;bf uv;ot bj;bf xk;yu	100
 办水卡	bj;lb uv;ln ka;ub	100
@@ -10311,6 +10313,7 @@ sort: by_weight
 悲悲戚戚	bw;fx bw;fx qi;wx qi;wx	100
 北奔重卡	bw;lb bf;dc vs;ql ka;ub	100
 北奔重汽	bw;lb bf;dc vs;ql qi;dq	100
+卑鄙得很	bw;pu bi;ke de;rc hf;rg	100
 被逼得没办法	bw;pp bi;zt de;rc mw;du bj;lb fa;dq	100
 被逼得走投无路	bw;pp bi;zt de;rc zz;tz tz;fu wu;ay lu;zk	100
 被逼得走投无路了	bw;pp bi;zt de;rc zz;tz tz;fu wu;ay lu;zk le;al	100
@@ -13561,6 +13564,7 @@ sort: by_weight
 婢作夫人	bi;nu zo;rv fu;er rf;pn	100
 必作于细	bi;xp zo;rv yu;au xi;st	100
 必作于易	bi;xp zo;rv yu;au yi;ow	100
+苄氨基嘌呤	bm;cb an;qn ji;ct pn;ku lk;ks	100
 变白色	bm;wy bd;po se;db	100
 变白色了	bm;wy bd;po se;db le;al	100
 编班考试	bm;sc bj;wl kc;lk ui;yg	100
@@ -15840,6 +15844,7 @@ sort: by_weight
 并践行	bk;bk jm;zj xk;rd	100
 并肩行走	bk;bk jm;ho xk;rd zz;tz	100
 并肩于	bk;bk jm;ho yu;au	100
+并肩站着	bk;bk jm;ho vj;lv ve;yo	100
 并肩子	bk;bk jm;ho zi;la	100
 并降低	bk;bk jl;ef di;ru	100
 病娇模拟器	bk;bn jn;nl mo;md ni;fr qi;kk	100
@@ -17347,6 +17352,7 @@ sort: by_weight
 不逮捕特权	bu;ab dd;zl bu;ff te;nc qr;my	100
 不带电	bu;ab dd;cj dm;ov	100
 不带电脑	bu;ab dd;cj dm;ov nc;ox	100
+不带动的	bu;ab dd;cj ds;yl de;bu	100
 布袋港	bu;uj dd;ry gh;ds	100
 布袋和尚新传	bu;uj dd;ry he;hk uh;xk xb;lj vr;rv	100
 不带回家	bu;ab dd;cj hv;kk jx;bu	100
@@ -21108,6 +21114,7 @@ sort: by_weight
 不死的话	bu;ab si;db de;bu hx;yu	100
 不死都灵	bu;ab si;db du;le lk;eh	100
 不死就行	bu;ab si;db jq;wy xk;rd	100
+不思其反	bu;ab si;tx qi;cb fj;iy	100
 不死少女	bu;ab si;db uc;xp nv;va	100
 不死亡灵	bu;ab si;db wh;wv lk;eh	100
 不死系	bu;ab si;db xi;px	100
@@ -24845,7 +24852,6 @@ sort: by_weight
 参考首付	cj;sp kc;lk uz;bz fu;rc	100
 参考售价	cj;sp kc;lk uz;rk jx;rj	100
 参考素材	cj;sp kc;lk su;fx cd;mc	100
-参考特藏	cj;sp kc;lk te;nc ch;ci	100
 参考条件	cj;sp kc;lk tn;wm jm;rn	100
 参考图	cj;sp kc;lk tu;kd	100
 参考图片	cj;sp kc;lk tu;kd pm;pv	100
@@ -27981,7 +27987,6 @@ sort: by_weight
 长安品牌	ih;pn an;bn pb;kk pd;pu	100
 长按屏幕	ih;pn an;fn pk;uk mu;cj	100
 长安汽车集团	ih;pn an;bn qi;dq ie;au ji;rm tr;kc	100
-长安汽车品牌	ih;pn an;bn qi;dq ie;au pb;kk pd;pu	100
 长安期货	ih;pn an;bn qi;co ho;rb	100
 长安轻型车	ih;pn an;bn qk;ij xk;kt ie;au	100
 长安如故	ih;pn an;bn ru;nk gu;gw	100
@@ -28193,6 +28198,7 @@ sort: by_weight
 长城科技	ih;pn ig;ti ke;hd ji;fv	100
 长城控股	ih;pn ig;ti ks;fg gu;ou	100
 长城控股集团	ih;pn ig;ti ks;fg gu;ou ji;rm tr;kc	100
+长程力	ih;pn ig;hw li;vp	100
 长城岭	ih;pn ig;ti lk;us	100
 长城路	ih;pn ig;ti lu;zk	100
 长城旅游	ih;pn ig;ti lv;fy yz;dz	100
@@ -30537,6 +30543,7 @@ sort: by_weight
 长途旅游	ih;pn tu;zm lv;fy yz;dz	100
 长途摩旅	ih;pn tu;zm mo;gu lv;fy	100
 长途拼车	ih;pn tu;zm pb;fk ie;au	100
+长突起	ih;pn tu;bq qi;tj	100
 长途汽车客运	ih;pn tu;zm qi;dq ie;au ke;bk yy;zy	100
 长途汽车客运站	ih;pn tu;zm qi;dq ie;au ke;bk yy;zy vj;lv	100
 长途汽车票	ih;pn tu;zm qi;dq ie;au pn;xu	100
@@ -31970,6 +31977,7 @@ sort: by_weight
 超英赶美	ic;tk yk;cy gj;tg mw;yd	100
 超硬质钢铁	ic;tk yk;ug vi;ib gh;jx tp;jf	100
 朝永振一郎	ic;uo ys;du vf;fi yi;aa lh;le	100
+朝右侧	ic;uo yz;uk ce;rd	100
 超有感	ic;tk yz;uo gj;wx	100
 超有感觉	ic;tk yz;uo gj;wx jt;xj	100
 超友谊关系	ic;tk yz;uy yi;yq gr;bt xi;px	100
@@ -32041,6 +32049,7 @@ sort: by_weight
 超自然的	ic;tk zi;po rj;xh de;bu	100
 超自然的存在	ic;tk zi;po rj;xh de;bu cy;uz zd;ut	100
 超足球	ic;tk zu;kz qq;wq	100
+朝左侧	ic;uo zo;ug ce;rd	100
 炒作股票	ic;hu zo;rv gu;ou pn;xu	100
 抄作业	ic;fu zo;rv ye;la	100
 抄作业了	ic;fu zo;rv ye;la le;al	100
@@ -32858,6 +32867,7 @@ sort: by_weight
 臣心如水	if;kl xb;dd ru;nk uv;ln	100
 称心如愿	if;hx xb;dd ru;nk yr;ix	100
 晨省昏定	if;oi xk;uo hy;uo dk;bz	100
+沉性卵	if;dj xk;xu lr;pd	100
 陈幸嫚	if;ed xk;tg mj;ny	100
 陈省身	if;ed xk;uo uf;zc	100
 晨兴夜寐	if;oi xk;xb ye;ww mw;bw	100
@@ -34776,13 +34786,10 @@ sort: by_weight
 成长论坛	ig;wv vh;pn ly;yl tj;ty	100
 成长逻辑	ig;wv vh;pn lo;zx ji;ie	100
 成长密码	ig;wv vh;pn mi;bu ma;um	100
-成长免费视频	ig;wv vh;pn mm;de fw;fb ui;pj pb;vy	100
-成长免费视频播放	ig;wv vh;pn mm;de fw;fb ui;pj pb;vy bo;ft fh;fw	100
 成长模式	ig;wv vh;pn mo;md ui;yg	100
 成长目标	ig;wv vh;pn mu;ke bn;mu	100
 成长奶粉	ig;wv vh;pn nd;nn ff;mf	100
 成长能力	ig;wv vh;pn ng;sb li;vp	100
-成长片免费	ig;wv vh;pn pm;pv mm;de fw;fb	100
 成长平台	ig;wv vh;pn pk;au td;sk	100
 成长企业	ig;wv vh;pn qi;rv ye;la	100
 成长前景	ig;wv vh;pn qm;bd jk;ox	100
@@ -36156,6 +36163,8 @@ sort: by_weight
 冲巴雍措	is;dv ba;sl ys;wv co;fo	100
 崇拜对象	is;uu bd;uf dv;yc xl;du	100
 崇拜仪式	is;uu bd;uf yi;ry ui;yg	100
+重瓣百合	is;ql bj;xg bd;ab he;rk	100
+重瓣樱花	is;ql bj;xg yk;mn hx;cb	100
 虫宝包	is;vd bc;by bc;bs	100
 重报集团	is;ql bc;fy ji;rm tr;kc	100
 重报移动传媒	is;ql bc;fy yi;hx ds;yl ir;rv mw;nm	100
@@ -54711,8 +54720,6 @@ sort: by_weight
 德州科技	de;rx vz;dl ke;hd ji;fv	100
 德州乐陵	de;rx vz;dl lc;px lk;ew	100
 德州牛仔	de;rx vz;dl nq;pu zd;rz	100
-德州扑克俱乐部	de;rx vz;dl pu;fb ke;ux ju;rb le;px bu;le	100
-德州扑克胜率	de;rx vz;dl pu;fb ke;ux ug;ou lv;wu	100
 德州人	de;rx vz;dl rf;pn	100
 德州疫情	de;rx vz;dl yi;bu qk;xo	100
 德州一中	de;rx vz;dl yi;aa vs;kl	100
@@ -59824,6 +59831,7 @@ sort: by_weight
 顶尖院校	dk;dy jm;xd yr;ey xn;mf	100
 钉进来	dk;jd jb;zj ld;am	100
 钉进去	dk;jd jb;zj qu;ts	100
+顶进去	dk;dy jb;zj qu;ts	100
 盯紧重点	dk;od jb;lx vs;ql dm;vh	100
 订酒店了	dk;yd jq;dy dm;gv le;al	100
 订酒店了吗	dk;yd jq;dy dm;gv le;al ma;km	100
@@ -60358,7 +60366,6 @@ sort: by_weight
 懂得搭配	ds;xv de;rc da;fk pw;yj	100
 懂得道理	ds;xv de;rc dc;zz li;wl	100
 懂得低头	ds;xv de;rc di;ru tz;dd	100
-懂的都懂	ds;xv de;bu dz;le ds;xv	100
 懂得独立	ds;xv de;rc du;qi li;wb	100
 懂得对方	ds;xv de;rc dv;yc fh;wv	100
 懂得多	ds;xv de;rc do;xx	100
@@ -61634,6 +61641,7 @@ sort: by_weight
 都不大	dz;le bu;ab da;ar	100
 都不打	dz;le bu;ab da;fd	100
 都不带	dz;le bu;ab dd;cj	100
+都不带动的	dz;le bu;ab dd;cj ds;yl de;bu	100
 都不得不承认	dz;le bu;ab de;rc bu;ab ig;ln rf;yr	100
 都不得罪	dz;le bu;ab de;rc zv;sf	100
 都不懂得	dz;le bu;ab ds;xv de;rc	100
@@ -65340,6 +65348,7 @@ sort: by_weight
 断长续短	dr;vj ih;pn xu;sd dr;ub	100
 短程弹道导弹	dr;ub ig;hw dj;gu dc;zz dc;sc dj;gu	100
 短程导弹	dr;ub ig;hw dc;sc dj;gu	100
+短程力	dr;ub ig;hw li;vp	100
 短程线	dr;ub ig;hw xm;sj	100
 短池赛	dr;ub ii;dy sd;bb	100
 短出出	dr;ub iu;uu iu;uu	100
@@ -65577,6 +65586,7 @@ sort: by_weight
 短途出差	dr;ub tu;zm iu;uu id;yg	100
 短途出行	dr;ub tu;zm iu;uu xk;rd	100
 短途飞行	dr;ub tu;zm fw;vd xk;rd	100
+短突起	dr;ub tu;bq qi;tj	100
 短途行驶	dr;ub tu;zm xk;rd ui;mu	100
 短腿猎犬	dr;ub tv;og lp;qo qr;dd	100
 断瓦残垣	dr;vj wa;ad cj;dj yr;td	100
@@ -70660,6 +70670,7 @@ sort: by_weight
 耳下腺	er;ol xx;ab xm;ou	100
 耳下腺炎	er;ol xx;ab xm;ou yj;hh	100
 二线城市	er;aa xm;sj ig;ti ui;wj	100
+而显得	er;al xm;oy de;rc	100
 二向箔	er;aa xl;pk bo;vb	100
 二项式系数	er;aa xl;gy ui;yg xi;px uu;mw	100
 二向听	er;aa xl;pk tk;kj	100
@@ -72959,6 +72970,7 @@ sort: by_weight
 繁盛时代	fj;px ug;im ui;oc dd;ry	100
 反生物战	fj;iy ug;pf wu;nw vj;vg	100
 凡事不能一概而论	fj;jd ui;gy bu;ab ng;sb yi;aa gd;mw er;al ly;yl	100
+反是不思	fj;iy ui;oz bu;ab si;tx	100
 范士丹	fj;cv ui;ua dj;kd	100
 反噬的结果	fj;iy ui;kr de;bu jp;sk go;tm	100
 凡事都具有	fj;jd ui;gy dz;le ju;qb yz;uo	100
@@ -73316,6 +73328,7 @@ sort: by_weight
 钒元素	fj;jf yr;aw su;fx	100
 反袁运动	fj;iy yr;ty yy;zy ds;yl	100
 繁杂性	fj;px za;jm xk;xu	100
+烦躁得很	fj;hy zc;zm de;rc hf;rg	100
 反遭毒手	fj;iy zc;zo du;fm uz;pf	100
 范曾先生	fj;cv zg;bo xm;ne ug;pf	100
 反诈标语	fj;iy va;yv bn;mu yu;yk	100
@@ -75912,6 +75925,7 @@ sort: by_weight
 飞来的子弹	fw;vd ld;am de;bu zi;la dj;gu	100
 飞来飞去落谁家	fw;vd ld;am fw;vd qu;ts lo;ck uw;yv jx;bu	100
 飞来飞去落谁家	fw;vd ld;am fw;vd qu;ts lo;ck uv;yv jx;bu	100
+匪来贸丝	fw;kf ld;am mc;pb si;sa	100
 飞来艳福	fw;vd ld;am yj;fb fu;pt	100
 肥蓝猫	fw;ob lj;cm mc;qt	100
 费了半天劲	fw;fb le;al bj;bf tm;ad jb;jl	100
@@ -76972,6 +76986,7 @@ sort: by_weight
 分量最重	ff;bd ll;ol zv;oy vs;ql	100
 分裂法	ff;bd lp;dy fa;dq	100
 分裂弓	ff;bd lp;dy gs;vv	100
+分裂间期	ff;bd lp;dy jm;mo qi;co	100
 分裂开来	ff;bd lp;dy kd;ac ld;am	100
 分列为	ff;bd lp;dd ww;ld	100
 分裂性	ff;bd lp;dy xk;xu	100
@@ -80067,6 +80082,7 @@ sort: by_weight
 复兴基地	fu;pw xk;xb ji;ct di;ty	100
 复兴剧校	fu;pw xk;xb ju;ud xn;mf	100
 福星临门	fu;pt xk;ou lb;lk mf;dv	100
+浮性卵	fu;dz xk;xu lr;pd	100
 复兴名邸	fu;pw xk;xb mk;xk di;ue	100
 复兴南路	fu;pw xk;xb nj;ug lu;zk	100
 福星人	fu;pt xk;ou rf;pn	100
@@ -80484,6 +80500,7 @@ sort: by_weight
 咖喱味	ga;kk li;kl ww;kw	100
 咖喱虾	ga;kk li;kl xx;ix	100
 咖喱蟹	ga;kk li;kl xp;di	100
+咖喱叶	ga;kk li;kl ye;ku	100
 咖喱鱼蛋	ga;kk li;kl yu;da dj;zi	100
 咖喱汁	ga;kk li;kl vi;du	100
 伽马暴	ga;rk ma;va bc;ou	100
@@ -82829,6 +82846,7 @@ sort: by_weight
 高昂的士气	gc;wk ah;oe de;bu ui;ua qi;pv	100
 高昂着头	gc;wk ah;oe ve;yo tz;dd	100
 高傲不屈	gc;wk ao;rw bu;ab qu;ui	100
+高傲得很	gc;wk ao;rw de;rc hf;rg	100
 高傲雉鸡	gc;wk ao;rw vi;uv ji;yn	100
 搞把戏	gc;fk ba;fb xi;yg	100
 告白成功了	gc;nk bd;po ig;wv gs;gl le;al	100
@@ -83943,7 +83961,6 @@ sort: by_weight
 高擎着	gc;wk qk;cu ve;yo	100
 高球杯	gc;wk qq;wq bw;mb	100
 高球场	gc;wk qq;wq ih;tp	100
-高秋梓	gc;wk qq;hh zi;mx	100
 高权重	gc;wk qr;my vs;ql	100
 高权重平台	gc;wk qr;my vs;ql pk;au td;sk	100
 高权重网站	gc;wk qr;my vs;ql wh;kx vj;lv	100
@@ -91649,10 +91666,6 @@ sort: by_weight
 管理体系认证证书	gr;vl li;wl ti;rb xi;px rf;yr vg;yv vg;yv uu;vd	100
 管理体重	gr;vl li;wl ti;rb vs;ql	100
 管理系列	gr;vl li;wl xi;px lp;dd	100
-管理系统建设	gr;vl li;wl xi;px ts;sy jm;zy ue;yu	100
-管理系统解决方案	gr;vl li;wl xi;px ts;sy jp;dn jt;dg fh;wv an;bm	100
-管理系统开发	gr;vl li;wl xi;px ts;sy kd;ac fa;fy	100
-管理系统软件	gr;vl li;wl xi;px ts;sy rr;iq jm;rn	100
 管理效率低	gr;vl li;wl xn;ww lv;wu di;ru	100
 管理协调	gr;vl li;wl xp;ub tn;yk	100
 管理心得	gr;vl li;wl xb;dd de;rc	100
@@ -93018,7 +93031,6 @@ sort: by_weight
 广州农商行	gl;di vz;dl ns;by uh;wk hh;rd	100
 广州农商银行	gl;di vz;dl ns;by uh;wk yb;jg hh;rd	100
 广州融创乐园	gl;di vz;dl rs;gi il;rd le;px yr;ky	100
-广州省	gl;di vz;dl ug;uo	100
 广州省站	gl;di vz;dl ug;uo vj;lv	100
 光州市	gl;xe vz;dl ui;wj	100
 广州市花都区	gl;di vz;dl ui;wj hx;cb du;le qu;kx	100
@@ -93858,6 +93870,7 @@ sort: by_weight
 贵族娱乐	gv;vb zu;fu yu;nt le;px	100
 柜组长	gv;mj zu;sq vh;pn	100
 贵族政治	gv;vb zu;fu vg;vw vi;dk	100
+跪坐着	gv;zv zo;tr ve;yo	100
 滚鞍落马	gy;dg an;gn lo;ck ma;va	100
 滚彩蛋	gy;dg cd;cp dj;zi	100
 滚成一团	gy;dg ig;wv yi;aa tr;kc	100
@@ -98004,6 +98017,7 @@ sort: by_weight
 还犹有过之	hd;zb yz;qy yz;uo go;zc vi;dn	100
 还有赠品	hd;zb yz;uo zg;bo pb;kk	100
 还有这个	hd;zb yz;uo ve;zw ge;rl	100
+还有这好事	hd;zb yz;uo ve;zw hc;nz ui;gy	100
 还有这回事	hd;zb yz;uo ve;zw hv;kk ui;gy	100
 还有这么	hd;zb yz;uo ve;zw me;ps	100
 还有这事	hd;zb yz;uo ve;zw ui;gy	100
@@ -99901,7 +99915,6 @@ sort: by_weight
 行业营销	hh;rd ye;la yk;ck xn;jo	100
 行业应用案例	hh;rd ye;la yk;ga ys;kf an;bm li;rd	100
 行业应用场景	hh;rd ye;la yk;ga ys;kf ih;tp jk;ox	100
-行业应用解决方案	hh;rd ye;la yk;ga ys;kf jp;dn jt;dg fh;wv an;bm	100
 行业应用领域	hh;rd ye;la yk;ga ys;kf lk;ry yu;ta	100
 行业应用软件	hh;rd ye;la yk;ga ys;kf rr;iq jm;rn	100
 行业英语	hh;rd ye;la yk;cy yu;yk	100
@@ -108376,6 +108389,7 @@ sort: by_weight
 怀里抱着	hk;xb li;tt bc;fb ve;yo	100
 坏良心	hk;tb ll;dg xb;dd	100
 坏领导	hk;tb lk;ry dc;sc	100
+怀卵量	hk;xb lr;pd ll;ol	100
 坏没坏	hk;tb mw;du hk;tb	100
 坏没坏掉	hk;tb mw;du hk;tb dn;fu	100
 坏没坏掉啊	hk;tb mw;du hk;tb dn;fu aa;kk	100
@@ -113413,6 +113427,7 @@ sort: by_weight
 几档子事	ji;pv dh;me zi;la ui;gy	100
 几档子事儿	ji;pv dh;me zi;la ui;gy er;pv	100
 几道菜	ji;pv dc;zz cd;cc	100
+挤到角落	ji;fq dc;gd jn;dy lo;ck	100
 寄刀片	ji;bk dc;vp pm;pv	100
 寄刀片儿	ji;bk dc;vp pm;pv er;pv	100
 几道题	ji;pv dc;zz ti;oy	100
@@ -120382,6 +120397,7 @@ sort: by_weight
 建造体系	jm;zy zc;zk ti;rb xi;px	100
 建造系统	jm;zy zc;zk xi;px ts;sy	100
 奸贼之手	jm;ng zw;bu vi;dn uz;pf	100
+奸诈得很	jm;ng va;yv de;rc hf;rg	100
 煎炸食品	jm;bh va;hv ui;rg pb;kk	100
 煎炸油	jm;bh va;hv yz;dy	100
 监斩官	jm;lm vj;ij gr;bl	100
@@ -123186,6 +123202,7 @@ sort: by_weight
 较早的	jn;if zc;ou de;bu	100
 焦躁感	jn;rh zc;zm gj;wx	100
 焦躁起来	jn;rh zc;zm qi;tj ld;am	100
+狡诈得很	jn;qf va;yv de;rc hf;rg	100
 交战图	jn;wf vj;vg tu;kd	100
 交战重伤	jn;wf vj;vg vs;ql uh;rl	100
 交战状态	jn;wf vj;vg vl;lq td;tx	100
@@ -138716,7 +138733,6 @@ sort: by_weight
 克洛德列维斯特劳斯	ke;ux lo;dk de;rx lp;dd ww;sv si;cj te;nc lc;cl si;cj	100
 可落地	ke;dk lo;ck di;ty	100
 克罗地亚队	ke;ux lo;sx di;ty ya;ay dv;er	100
-克罗地亚国家队	ke;ux lo;sx di;ty ya;ay go;ky jx;bu dv;er	100
 克罗地亚国脚	ke;ux lo;sx di;ty ya;ay go;ky jn;oe	100
 克罗地亚库纳	ke;ux lo;sx di;ty ya;ay ku;gi na;sn	100
 克罗地亚狂想曲	ke;ux lo;sx di;ty ya;ay kl;qw xl;mx qu;kc	100
@@ -141888,7 +141904,6 @@ sort: by_weight
 快乐豆	kk;xg le;px dz;ab	100
 快乐斗地主	kk;xg le;px dz;ud di;ty vu;wt	100
 快乐斗牛	kk;xg le;px dz;ud nq;pu	100
-快乐斗牛腾讯版	kk;xg le;px dz;ud nq;pu tg;om xy;yu bj;py	100
 快乐度	kk;xg le;px du;gy	100
 快乐读书吧	kk;xg le;px du;yd uu;vd ba;kb	100
 快乐多	kk;xg le;px do;xx	100
@@ -142388,6 +142403,7 @@ sort: by_weight
 矿床地质	kl;ug il;gm di;ty vi;ib	100
 哐当哐当	kl;kw dh;xe kl;kw dh;xe	100
 哐当一声	kl;kw dh;xe yi;aa ug;tu	100
+狂得很	kl;qw de;rc hf;rg	100
 哐的一声	kl;kw de;bu yi;aa ug;tu	100
 狂风大作	kl;qw fg;jx da;ar zo;rv	100
 狂风扫落叶	kl;qw fg;jx sc;fe lo;ck ye;ku	100
@@ -143454,6 +143470,7 @@ sort: by_weight
 来几把	ld;am ji;pv ba;fb	100
 来祭奠	ld;am ji;xu dm;bd	100
 来几个	ld;am ji;pv ge;rl	100
+来即我谋	ld;am ji;ge wo;ga mz;ym	100
 莱加内斯	ld;cl jx;lk nw;kr si;cj	100
 来见我	ld;am jm;ke wo;ga	100
 来将何人	ld;am jl;lc he;rk rf;pn	100
@@ -145586,6 +145603,7 @@ sort: by_weight
 累得很	lw;tx de;rc hf;rg	100
 勒得慌	lw;gl de;rc hl;xi	100
 累得慌	lw;tx de;rc hl;xi	100
+勒得紧	lw;gl de;rc jb;lx	100
 雷德克里夫	lw;yt de;rx ke;ux li;tt fu;er	100
 累得满头大汗	lw;tx de;rc mj;dl tz;dd da;ar hj;dg	100
 累得气喘吁吁	lw;tx de;rc qi;pv ir;ke xu;ky xu;ky	100
@@ -151940,7 +151958,6 @@ sort: by_weight
 溜达溜达	lq;dt da;zd lq;dt da;zd	100
 刘大美人	lq;wd da;ar mw;yd rf;pn	100
 六大模块	lq;wb da;ar mo;md kk;tg	100
-六大片	lq;wb da;ar pm;pv	100
 六打三	lq;wb da;fd sj;ae	100
 刘大锁	lq;wd da;ar so;jb	100
 六大体系	lq;wb da;ar ti;rb xi;px	100
@@ -155969,14 +155986,15 @@ sort: by_weight
 路要朝前走	lu;zk yc;xn ic;uo qm;bd zz;tz	100
 卢业瑂	lu;bu ye;la mw;wo	100
 鹿野乡	lu;gb ye;ly xl;vp	100
-鹿野院	lu;gb ye;ly yr;ey	100
 鲁医保	lu;yo yi;ku bc;rm	100
 撸一管	lu;fo yi;aa gr;vl	100
 撸一管儿	lu;fo yi;aa gr;vl er;pv	100
 陆亦可	lu;ej yi;wb ke;dk	100
 路易士	lu;zk yi;ow ui;ua	100
 路易斯阿姆斯特朗	lu;zk yi;ow si;cj aa;ek mu;nm si;cj te;nc lh;lo	100
-陆驿站	lu;ej yi;mf vj;lv	100
+路易斯碱	lu;zk yi;ow si;cj jm;uk	100
+路易斯酸	lu;zk yi;ow si;cj sr;yw	100
+路易斯酸碱理论	lu;zk yi;ow si;cj sr;yw jm;uk li;wl ly;yl	100
 路一直都在	lu;zk yi;aa vi;uq dz;le zd;ut	100
 陆一舟	lu;ej yi;aa vz;pd	100
 录音间	lu;eu yb;lo jm;mo	100
@@ -156736,6 +156754,7 @@ sort: by_weight
 骆济通	lo;mk ji;dq ts;zy	100
 逻辑行为	lo;zx ji;ie xk;rd ww;ld	100
 裸机重量	lo;pg ji;mj vs;ql ll;ol	100
+洛基传	lo;dk ji;ct vr;rv	100
 逻辑自洽	lo;zx ji;ie zi;po qx;dk	100
 落架大修	lo;ck jx;lm da;ar xq;rp	100
 落肩的设计	lo;ck jm;ho de;bu ue;yu ji;yu	100
@@ -163170,6 +163189,7 @@ sort: by_weight
 没那么热	mw;du na;ve me;ps re;fh	100
 没那么容易	mw;du na;ve me;ps rs;bg yi;ow	100
 没那么容易死	mw;du na;ve me;ps rs;bg yi;ow si;db	100
+没那么少	mw;du na;ve me;ps uc;xp	100
 没那么舒服	mw;du na;ve me;ps uu;ry fu;oy	100
 没那么讨厌	mw;du na;ve me;ps tc;yc yj;iq	100
 没那么痛	mw;du na;ve me;ps ts;by	100
@@ -163330,7 +163350,6 @@ sort: by_weight
 美女技师	mw;yd nv;va ji;fv ui;lj	100
 美女角色	mw;yd nv;va jt;dy se;db	100
 美女来了	mw;yd nv;va ld;am le;al	100
-美女来了免费观看	mw;yd nv;va ld;am le;al mm;de fw;fb gr;yj kj;uo	100
 美女老师	mw;yd nv;va lc;lb ui;lj	100
 美女嫩模	mw;yd nv;va nf;nw mo;md	100
 美女你好	mw;yd nv;va ni;rx hc;nz	100
@@ -165070,7 +165089,6 @@ sort: by_weight
 没以前好	mw;du yi;lr qm;bd hc;nz	100
 没以前好看	mw;du yi;lr qm;bd hc;nz kj;uo	100
 没以前好了	mw;du yi;lr qm;bd hc;nz le;al	100
-没意识	mw;du yi;lx ui;yv	100
 没意思啦	mw;du yi;lx si;tx la;kl	100
 没意思了	mw;du yi;lx si;tx le;al	100
 每一所学校	mw;pm yi;aa so;hj xt;xz xn;mf	100
@@ -166127,9 +166145,11 @@ sort: by_weight
 没辙了	mw;du ve;iw le;al	100
 昧着良心说话	mw;ow ve;yo ll;dg xb;dd uo;yx hx;yu	100
 没这么大	mw;du ve;zw me;ps da;ar	100
+没这么多	mw;du ve;zw me;ps do;xx	100
 没这么简单	mw;du ve;zw me;ps jm;vo dj;bu	100
 没这么冷	mw;du ve;zw me;ps lg;ds	100
 没这么容易	mw;du ve;zw me;ps rs;bg yi;ow	100
+没这么少	mw;du ve;zw me;ps uc;xp	100
 没这么严重	mw;du ve;zw me;ps yj;ai vs;ql	100
 没这么直接	mw;du ve;zw me;ps vi;uq jp;fn	100
 没这张	mw;du ve;zw vh;gi	100
@@ -166617,16 +166637,14 @@ sort: by_weight
 萌萌哒	mg;co mg;co da;kd	100
 萌萌哒啦	mg;co mg;co da;kd la;kl	100
 蒙蒙的雾	mg;cu mg;cu de;bu wu;yl	100
-蒙蒙懂懂	mg;cu mg;cu ds;xv ds;xv	100
 猛猛干	mg;qm mg;qm gj;au	100
 蒙蒙谷	mg;cu mg;cu gu;bk	100
 蒙蒙黑	mg;cu mg;cu hw;lh	100
-朦朦胧胧	mg;ou mg;ou ls;ol ls;ol	100
-蒙蒙眬眬	mg;cu mg;cu ls;ol ls;ol	100
 懵懵然	mg;xo mg;xo rj;xh	100
 猛猛然	mg;qm mg;qm rj;xh	100
 梦梦蚀	mg;mx mg;mx ui;ui	100
 懵懵无知	mg;xo mg;xo wu;ay vi;uk	100
+蒙蒙杂花垂	mg;cu mg;cu za;jm hx;cb iv;qt	100
 蒙面大侠	mg;cu mm;ao da;ar xx;rj	100
 蒙面昧心	mg;cu mm;ao mw;ow xb;dd	100
 蒙面丧心	mg;cu mm;ao sh;ty xb;dd	100
@@ -166748,7 +166766,6 @@ sort: by_weight
 蒙冤受屈	mg;cu yr;bt uz;vy qu;ui	100
 锰元素	mg;jm yr;aw su;fx	100
 孟曰取义	mg;zm yt;ka qu;ey yi;dx	100
-朦在鼓里	mg;ou zd;ut gu;tv li;tt	100
 蒙藏同胞	mg;cu zh;ci ts;kk bc;ob	100
 蒙藏委员	mg;cu zh;ci ww;hn yr;kb	100
 蒙藏委员会	mg;cu zh;ci ww;hn yr;kb hv;ry	100
@@ -171057,6 +171074,7 @@ sort: by_weight
 目光落在场上	mu;ke gl;xe lo;ck zd;ut ih;tp uh;ba	100
 目光落在场中	mu;ke gl;xe lo;ck zd;ut ih;tp vs;kl	100
 目光落在了	mu;ke gl;xe lo;ck zd;ut le;al	100
+目光瞢然	mu;ke gl;xe mg;co rj;xh	100
 目光平静	mu;ke gl;xe pk;au jk;fy	100
 目光如鼠	mu;ke gl;xe ru;nk uu;jv	100
 目光散乱	mu;ke gl;xe sj;cw lr;uv	100
@@ -184201,6 +184219,8 @@ sort: by_weight
 朴成民	pn;mb ig;wv mb;vv	100
 朴成雄	pn;mb ig;wv xs;uv	100
 朴初珑	pn;mb iu;pd ls;wl	100
+飘得很	pn;xf de;rc hf;rg	100
+飘得厉害	pn;xf de;rc li;iw hd;bk	100
 朴多贤	pn;mb do;xx xm;lb	100
 朴恩斌	pn;mb en;yx bb;wv	100
 朴恩惠	pn;mb en;yx hv;ix	100
@@ -184291,7 +184311,9 @@ sort: by_weight
 飘零半生	pn;xf lk;ys bj;bf ug;pf	100
 飘零的落叶	pn;xf lk;ys de;bu lo;ck ye;ku	100
 飘零湖海	pn;xf lk;ys hu;do hd;dm	100
+漂流卵	pn;du lq;di lr;pd	100
 漂流武士	pn;du lq;di wu;yv ui;ua	100
+漂流性卵	pn;du lq;di xk;xu lr;pd	100
 飘柳絮	pn;xf lq;me xu;nx	100
 朴龙河	pn;mb ls;yp he;dk	100
 朴璐美	pn;mb lu;wk mw;yd	100
@@ -191096,7 +191118,6 @@ sort: by_weight
 千劫眉	qm;pu jp;ql mw;uo	100
 千金敝帚	qm;pu jb;rb bi;xw vz;ej	100
 前进不懈	qm;bd jb;zj bu;ab xp;xn	100
-前进党	qm;bd jb;zj dh;xx	100
 前进的	qm;bd jb;zj de;bu	100
 前进的速度	qm;bd jb;zj de;bu su;zu du;gy	100
 千金方	qm;pu jb;rb fh;wv	100
@@ -193138,6 +193159,7 @@ sort: by_weight
 秦大夫	qb;ih dd;ar fu;er	100
 亲当矢石	qb;lm dh;xe ui;pd ui;ak	100
 亲得很	qb;lm de;rc hf;rg	100
+勤得很	qb;cl de;rc hf;rg	100
 勤得利	qb;cl de;rc li;hd	100
 勤得利农场	qb;cl de;rc li;hd ns;by ih;tp	100
 侵的权	qb;ry de;bu qr;my	100
@@ -193198,6 +193220,7 @@ sort: by_weight
 亲口对我说	qb;lm kz;la dv;yc wo;ga uo;yx	100
 勤苦耐劳	qb;cl ku;cg nd;ec lc;cl	100
 勤快地	qb;cl kk;xg de;ty	100
+勤快得很	qb;cl kk;xg de;rc hf;rg	100
 勤快人	qb;cl kk;xg rf;pn	100
 寝馈其间	qb;by kv;ub qi;cb jm;mo	100
 禽困覆车	qb;rn ky;km fu;xw ie;au	100
@@ -194489,6 +194512,8 @@ sort: by_weight
 轻轻爱	qk;ij qk;ij ai;vy	100
 情情爱爱	qk;xo qk;xo ai;vy ai;vy	100
 轻轻被折断	qk;ij qk;ij bw;pp ve;fj dr;vj	100
+轻轻蹭	qk;ij qk;ij cg;zo	100
+轻轻蹭着	qk;ij qk;ij cg;zo ve;yo	100
 清清澈澈	qk;do qk;do ie;dw ie;dw	100
 清清楚楚地告诉	qk;do qk;do iu;mz iu;mz de;ty gc;nk su;yi	100
 轻轻吹过	qk;ij qk;ij iv;kq go;zc	100
@@ -195147,8 +195172,6 @@ sort: by_weight
 青簪行	qk;fo zj;vo xk;rd	100
 青藏地区	qk;fo zh;ci di;ty qu;kx	100
 青藏高原地区	qk;fo zh;ci gc;wk yr;ix di;ty qu;kx	100
-青藏高原东北部	qk;fo zh;ci gc;wk yr;ix ds;ax bw;lb bu;le	100
-青藏高原东部	qk;fo zh;ci gc;wk yr;ix ds;ax bu;le	100
 青藏集团公司	qk;fo zh;ci ji;rm tr;kc gs;bs si;vk	100
 青藏铁路公司	qk;fo zh;ci tp;jf lu;zk gs;bs si;vk	100
 青藏铁路线	qk;fo zh;ci tp;jf lu;zk xm;sj	100
@@ -201819,6 +201842,7 @@ sort: by_weight
 融入其中	rs;gi ru;pn qi;cb vs;kl	100
 融入身躯	rs;gi ru;pn uf;zc qu;uq	100
 荣辱升沉	rs;cm ru;ic ug;pc if;dj	100
+荣辱盛衰	rs;cm ru;ic ug;im uk;yv	100
 融入体系	rs;gi ru;pn ti;rb xi;px	100
 融入校园	rs;gi ru;pn xn;mf yr;ky	100
 融入学校	rs;gi ru;pn xt;xz xn;mf	100
@@ -206946,8 +206970,6 @@ sort: by_weight
 扫地机厂家	sc;fe di;ty ji;mj ih;ap jx;bu	100
 扫地机器	sc;fe di;ty ji;mj qi;kk	100
 扫地机器人	sc;fe di;ty ji;mj qi;kk rf;pn	100
-扫地机器人品牌	sc;fe di;ty ji;mj qi;kk rf;pn pb;kk pd;pu	100
-扫地机器人怎么样	sc;fe di;ty ji;mj qi;kk rf;pn zf;vx me;ps yh;my	100
 扫地俱尽	sc;fe di;ty ju;rb jb;id	100
 扫地僧	sc;fe di;ty sg;ro	100
 扫地神僧	sc;fe di;ty uf;pu sg;ro	100
@@ -232947,7 +232969,6 @@ sort: by_weight
 宿舍神器	su;bb ue;rg uf;pu qi;kk	100
 宿舍生活	su;bb ue;rg ug;pf ho;du	100
 宿舍食堂	su;bb ue;rg ui;rg th;xt	100
-宿舍条件怎么样	su;bb ue;rg tn;wm jm;rn zf;vx me;ps yh;my	100
 宿舍外	su;bb ue;rg wd;xb	100
 宿舍网路	su;bb ue;rg wh;kx lu;zk	100
 宿舍卫生	su;bb ue;rg ww;ea ug;pf	100
@@ -240805,7 +240826,6 @@ sort: by_weight
 鿬元素	tm;; yr;aw su;fx	100
 天渊悬隔	tm;ad yr;dl xr;qx ge;eg	100
 天元战	tm;ad yr;aw vj;vg	100
-田渊正浩	tm;ku yr;dl vg;av hc;dk	100
 天渊之隔	tm;ad yr;dl vi;dn ge;eg	100
 田园之国	tm;ku yr;ky vi;dn go;ky	100
 天缘注定	tm;ad yr;su vu;dv dk;bz	100
@@ -241411,6 +241431,7 @@ sort: by_weight
 调料架	tn;yk ln;md jx;lm	100
 调料架子	tn;yk ln;md jx;lm zi;la	100
 调料酱	tn;yk ln;md jl;ly	100
+调料九里香	tn;yk ln;md jq;pv li;tt xl;ho	100
 调料配方	tn;yk ln;md pw;yj fh;wv	100
 调料品	tn;yk ln;md pb;kk	100
 调料瓶	tn;yk ln;md pk;bw	100
@@ -245138,7 +245159,6 @@ sort: by_weight
 秃曼巴	tu;hj mj;oy ba;sl	100
 图曼斯基	tu;kd mj;oy si;cj ji;ct	100
 涂美伦	tu;dm mw;yd ly;rl	100
-图门江	tu;kd mf;dv jl;dg	100
 凸面部分	tu;la mm;ao bu;le ff;bd	100
 凸面体	tu;la mm;ao ti;rb	100
 土面子	tu;ua mm;ao zi;la	100
@@ -250674,6 +250694,7 @@ sort: by_weight
 魏家祥	ww;hg jx;bu xl;py	100
 未嫁新娘	ww;am jx;nu xb;lj nl;nl	100
 唯见碧流水	ww;kv jm;ke bi;wu lq;di uv;ln	100
+唯见长江	ww;kv jm;ke ih;pn jl;dg	100
 违建户	ww;zw jm;zy hu;du	100
 韦建桦	ww;fv jm;zy hx;mu	100
 卫健局局长	ww;ea jm;ry ju;uk ju;uk vh;pn	100
@@ -252800,6 +252821,7 @@ sort: by_weight
 文君当垆	wf;wx jy;yk dh;xe lu;tu	100
 文俊尼	wf;wx jy;rw ni;ub	100
 文君新寡	wf;wx jy;yk xb;lj gx;bf	100
+闻君行仁政	wf;me jy;yk xk;rd rf;re vg;vw	100
 文君早寡	wf;wx jy;yk zc;ou gx;bf	100
 文凯玲	wf;wx kd;uj lk;ws	100
 文康中心	wf;wx kh;gl vs;kl xb;dd	100
@@ -254551,6 +254573,7 @@ sort: by_weight
 我还爱着你	wo;ga hd;zb ai;vy ve;yo ni;rx	100
 我还不笨	wo;ga hd;zb bu;ab bf;vb	100
 我还不清楚	wo;ga hd;zb bu;ab qk;do iu;mz	100
+我还不如	wo;ga hd;zb bu;ab ru;nk	100
 我还不想死	wo;ga hd;zb bu;ab xl;mx si;db	100
 我还不相信	wo;ga hd;zb bu;ab xl;mo xb;rk	100
 我还不晓得	wo;ga hd;zb bu;ab xn;ow de;rc	100
@@ -258193,6 +258216,7 @@ sort: by_weight
 武城职	wu;yv ig;ti vi;ev	100
 无耻地	wu;ay ii;ev de;ty	100
 无耻的	wu;ay ii;ev de;bu	100
+无耻得很	wu;ay ii;ev de;rc hf;rg	100
 无尺度	wu;ay ii;un du;gy	100
 无耻老贼	wu;ay ii;ev lc;lb zw;bu	100
 无齿轮或传动皮带	wu;ay ii;vr ly;il ho;ga ir;rv ds;yl pi;py dd;cj	100
@@ -260643,6 +260667,7 @@ sort: by_weight
 无穷远点	wu;ay qs;bl yr;zy dm;vh	100
 无穷之路	wu;ay qs;bl vi;dn lu;zk	100
 舞秋风	wu;pf qq;hh fg;jx	100
+无球粒陨石	wu;ay qq;wq li;ml yy;eb ui;ak	100
 吴秋明	wu;kt qq;hh mk;oo	100
 务求取得实效	wu;wl qq;au qu;ey de;rc ui;bd xn;ww	100
 乌丘乡	wu;pa qq;ja xl;vp	100
@@ -264387,16 +264412,8 @@ sort: by_weight
 系统会提示	xi;px ts;sy hv;ry ti;fz ui;ex	100
 系统级别	xi;px ts;sy ji;sj bp;kd	100
 系统疾病	xi;px ts;sy ji;bu bk;bn	100
-系统集成服务	xi;px ts;sy ji;rm ig;wv fu;oy wu;wl	100
-系统集成工程师	xi;px ts;sy ji;rm ig;wv gs;aa ig;hw ui;lj	100
-系统集成公司	xi;px ts;sy ji;rm ig;wv gs;bs si;vk	100
-系统集成及工控	xi;px ts;sy ji;rm ig;wv ji;pn gs;aa ks;fg	100
 系统集成技术	xi;px ts;sy ji;rm ig;wv ji;fv uu;md	100
-系统集成解决方案	xi;px ts;sy ji;rm ig;wv jp;dn jt;dg fh;wv an;bm	100
 系统集成能力	xi;px ts;sy ji;rm ig;wv ng;sb li;vp	100
-系统集成企业	xi;px ts;sy ji;rm ig;wv qi;rv ye;la	100
-系统集成项目	xi;px ts;sy ji;rm ig;wv xl;gy mu;ke	100
-系统集成业务	xi;px ts;sy ji;rm ig;wv ye;la wu;wl	100
 系统基础	xi;px ts;sy ji;ct iu;ui	100
 系统级封装	xi;px ts;sy ji;sj fg;tc vl;ly	100
 系统计划	xi;px ts;sy ji;yu hx;gd	100
@@ -272671,7 +272688,6 @@ sort: by_weight
 逍遥逍遥	xn;zo yc;zf xn;zo yc;zf	100
 逍遥行	xn;zo yc;zf xk;rd	100
 逍遥自得	xn;zo yc;zf zi;po de;rc	100
-消遥自在	xn;do yc;zf zi;po zd;ut	100
 小夜班	xn;lb ye;ww bj;wl	100
 小野不由美	xn;lb ye;ly bu;ab yz;ol mw;yd	100
 小夜刀	xn;lb ye;ww dc;vp	100
@@ -283668,7 +283684,6 @@ sort: by_weight
 岩居谷饮	yj;uu ju;ug gu;bk yb;uq	100
 燕居深念	yj;ch ju;ug uf;dm nm;rx	100
 岩居穴处	yj;uu ju;ug xt;bb iu;wb	100
-厌倦了机器人斗牛	yj;iq jr;rv le;al ji;mj qi;kk rf;pn dz;ud nq;pu	100
 眼看就要完成	yj;og kj;uo jq;wy yc;xn wj;by ig;wv	100
 眼看就要完成了	yj;og kj;uo jq;wy yc;xn wj;by ig;wv le;al	100
 眼看四方	yj;og kj;uo si;ke fh;wv	100
@@ -284036,7 +284051,7 @@ sort: by_weight
 盐酸吐根碱	yj;tm sr;yw tu;kt gf;mg jm;uk	100
 芫荽属	yj;cy sv;cn uu;uy	100
 芫荽叶	yj;cy sv;cn ye;ku	100
-燕绥之	yj;ch sv;sn vi;dn	100
+芫荽籽	yj;cy sv;cn zi;mz	100
 烟锁重楼	yj;hy so;jb is;ql lz;mn	100
 烟蓑雨笠	yj;hy so;cv yu;ad li;vl	100
 烟台长岛	yj;hy td;sk ih;pn dc;nu	100
@@ -284106,6 +284121,7 @@ sort: by_weight
 烟雾剂	yj;hy wu;yl ji;qd	100
 烟雾镜	yj;hy wu;yl jk;je	100
 延误救治	yj;zv wu;yt jq;qw vi;dk	100
+烟雾朦胧	yj;hy wu;yl mg;ou ls;ol	100
 晏无明	yj;on wu;ay mk;oo	100
 演五年戏	yj;db wu;aw nm;pf xi;yg	100
 烟雾浓度	yj;hy wu;yl ns;dy du;gy	100
@@ -291073,6 +291089,7 @@ sort: by_weight
 已经到了极限	yi;kv jk;sj dc;gd le;al ji;mj xm;eg	100
 已经道歉	yi;kv jk;sj dc;zz qm;jq	100
 已经倒下了	yi;kv jk;sj dc;rd xx;ab le;al	100
+已经登录	yi;kv jk;sj dg;bb lu;eu	100
 已经登堂入室	yi;kv jk;sj dg;bb th;xt ru;pn ui;bt	100
 已经都知道了	yi;kv jk;sj dz;le vi;uk dc;zz le;al	100
 已经恩准	yi;kv jk;sj en;yx vy;dv	100
@@ -295948,6 +295965,7 @@ sort: by_weight
 一一五一	yi;aa yi;aa wu;aw yi;aa	100
 一一五一年	yi;aa yi;aa wu;aw yi;aa nm;pf	100
 一亿像素传感器	yi;aa yi;rv xl;ru su;fx ir;rv gj;wx qi;kk	100
+亦已焉哉	yi;wb yi;kv yj;vh zd;gk	100
 抑抑扬格	yi;fe yi;fe yh;fp ge;mk	100
 一一一八	yi;aa yi;aa yi;aa ba;pn	100
 一一一八年	yi;aa yi;aa yi;aa ba;pn nm;pf	100
@@ -298449,6 +298467,7 @@ sort: by_weight
 引下去	yb;gl xx;ab qu;ts	100
 引线穿针	yb;gl xm;sj ir;by vf;ju	100
 阴险歹毒	yb;eo xm;eq dd;ax du;fm	100
+阴险得很	yb;eo xm;eq de;rc hf;rg	100
 阴险恶毒	yb;eo xm;eq ee;yx du;fm	100
 隐显墨水	yb;ex xm;oy mo;lt uv;ln	100
 隐显目标	yb;ex xm;oy mu;ke bn;mu	100
@@ -304987,6 +305006,8 @@ sort: by_weight
 于孔兼	yu;au ks;zv jm;bb	100
 与恐龙同行	yu;va ks;gx ls;yp ts;kk xk;rd	100
 预扣率	yu;yy kz;fk lv;wu	100
+菀枯隆杀	yu;cv ku;mg ls;eu ua;xm	100
+菀枯盈虚	yu;cv ku;mg yk;nm xu;hy	100
 渝快保	yu;dd kk;xg bc;rm	100
 愉快地决定	yu;xd kk;xg de;ty jt;dg dk;bz	100
 愉快地聊天	yu;xd kk;xg de;ty ln;ee tm;ad	100
@@ -305436,7 +305457,7 @@ sort: by_weight
 余粮收集	yu;rm ll;ml uz;jw ji;rm	100
 余粮收集制	yu;rm ll;ml uz;jw ji;rm vi;nd	100
 预料出	yu;yy ln;md iu;uu	100
-预料的软皮鞋跟	yu;yy ln;md de;bu rr;iq pi;py xp;gt gf;zg	100
+预料的	yu;yy ln;md de;bu	100
 余料建造	yu;rm ln;md jm;zy zc;zk	100
 欲了解更多信息	yu;gq ln;al jp;dn gg;an do;xx xb;rk xi;zx	100
 浴疗学	yu;dg ln;bl xt;xz	100
@@ -306236,6 +306257,7 @@ sort: by_weight
 雨余芳草斜阳	yu;ad yu;rm fh;cf cc;cu xp;rd yh;eo	100
 郁郁菲菲	yu;ue yu;ue fw;cf fw;cf	100
 欲语还羞	yu;gq yu;yk hd;zb xq;yi	100
+菀菀黄柳丝	yu;cv yu;cv hl;cb lq;me si;sa	100
 郁郁久居	yu;ue yu;ue jq;pn ju;ug	100
 郁郁久居人下	yu;ue yu;ue jq;pn ju;ug rf;pn xx;ab	100
 娱娱乐	yu;nt yu;nt le;px	100
@@ -306655,6 +306677,7 @@ sort: by_weight
 远方来鸿	yr;zy fh;wv ld;am hs;dn	100
 元芳你怎么看	yr;aw fh;cf ni;rx zf;vx me;ps kj;uo	100
 远方信息	yr;zy fh;wv xb;rk xi;zx	100
+远方之人	yr;zy fh;wv vi;dn rf;pn	100
 猿飞阿斯玛	yr;qy fw;vd aa;ek si;cj ma;wm	100
 源飞宠物	yr;dx fw;vd is;bl wu;nw	100
 远非全盛	yr;zy fw;ls qr;rw ug;im	100
@@ -307042,6 +307065,7 @@ sort: by_weight
 元世祖忽必烈	yr;aw ui;cv zu;pq hu;wx bi;xp lp;dh	100
 圆首方足	yr;kb uz;bz fh;wv zu;kz	100
 元首偷走了粉兔子	yr;aw uz;bz tz;rd zz;tz le;al ff;mf tu;dd zi;la	100
+愿受一廛而为氓	yr;ix uz;vy yi;aa ij;gt er;al ww;ld mg;wm	100
 原数据	yr;ix uu;mw ju;fg	100
 元书纸	yr;aw uu;vd vi;su	100
 远水不救近火	yr;zy uv;ln bu;ab jq;qw jb;zj ho;br	100
@@ -321312,10 +321336,6 @@ sort: by_weight
 指挥系	vi;fo hv;fi xi;px	100
 智慧系统	vi;uo hv;fx xi;px ts;sy	100
 智慧消防系统	vi;uo hv;fx xn;do fh;ef xi;px ts;sy	100
-智慧校园建设	vi;uo hv;fx xn;mf yr;ky jm;zy ue;yu	100
-智慧校园解决方案	vi;uo hv;fx xn;mf yr;ky jp;dn jt;dg fh;wv an;bm	100
-智慧校园平台	vi;uo hv;fx xn;mf yr;ky pk;au td;sk	100
-智慧校园系统	vi;uo hv;fx xn;mf yr;ky xi;px ts;sy	100
 只会写	vi;kb hv;ry xp;by	100
 指挥协调	vi;fo hv;fi xp;ub tn;yk	100
 指挥行动	vi;fo hv;fi xk;rd ds;yl	100
@@ -322607,11 +322627,11 @@ sort: by_weight
 致死率高	vi;gw si;db lv;wu gc;wk	100
 致死率极高	vi;gw si;db lv;wu ji;mj gc;wk	100
 之死靡他	vi;dn si;db mi;gf ta;ry	100
+致死浓度	vi;gw si;db ns;dy du;gy	100
 致死性	vi;gw si;db xk;xu	100
 致死性毒剂	vi;gw si;db xk;xu du;fm ji;qd	100
 治丝愈棼	vi;dk si;sa yu;rx ff;mf	100
 只送不卖	vi;kb ss;zt bu;ab md;ud	100
-制酸性	vi;nd sr;yw xk;xu	100
 止损的重要性	vi;lb sy;fb de;bu vs;ql yc;xn xk;xu	100
 之所系	vi;dn so;hj xi;px	100
 知所先后	vi;uk so;hj xm;ne hz;ik	100
@@ -327480,40 +327500,6 @@ sort: by_weight
 中央净水系统	vs;kl yh;kr jk;dy uv;ln xi;px ts;sy	100
 中央九套	vs;kl yh;kr jq;pv tc;dg	100
 中央军校	vs;kl yh;kr jy;bi xn;mf	100
-中央空调安装	vs;kl yh;kr ks;bg tn;yk an;bn vl;ly	100
-中央空调安装公司	vs;kl yh;kr ks;bg tn;yk an;bn vl;ly gs;bs si;vk	100
-中央空调保养	vs;kl yh;kr ks;bg tn;yk bc;rm yh;yl	100
-中央空调产品	vs;kl yh;kr ks;bg tn;yk ij;wi pb;kk	100
-中央空调出风口	vs;kl yh;kr ks;bg tn;yk iu;uu fg;jx kz;la	100
-中央空调风口	vs;kl yh;kr ks;bg tn;yk fg;jx kz;la	100
-中央空调改造	vs;kl yh;kr ks;bg tn;yk gd;jw zc;zk	100
-中央空调工程	vs;kl yh;kr ks;bg tn;yk gs;aa ig;hw	100
-中央空调管道	vs;kl yh;kr ks;bg tn;yk gr;vl dc;zz	100
-中央空调行业	vs;kl yh;kr ks;bg tn;yk hh;rd ye;la	100
-中央空调回收	vs;kl yh;kr ks;bg tn;yk hv;kk uz;jw	100
-中央空调机组	vs;kl yh;kr ks;bg tn;yk ji;mj zu;sq	100
-中央空调价格	vs;kl yh;kr ks;bg tn;yk jx;rj ge;mk	100
-中央空调节能	vs;kl yh;kr ks;bg tn;yk jp;ce ng;sb	100
-中央空调节能改造	vs;kl yh;kr ks;bg tn;yk jp;ce ng;sb gd;jw zc;zk	100
-中央空调冷却塔	vs;kl yh;kr ks;bg tn;yk lg;ds qt;qe ta;tk	100
-中央空调末端	vs;kl yh;kr ks;bg tn;yk mo;am dr;le	100
-中央空调木托	vs;kl yh;kr ks;bg tn;yk mu;ur to;fq	100
-中央空调配件	vs;kl yh;kr ks;bg tn;yk pw;yj jm;rn	100
-中央空调品牌	vs;kl yh;kr ks;bg tn;yk pb;kk pd;pu	100
-中央空调清洗	vs;kl yh;kr ks;bg tn;yk qk;do xi;de	100
-中央空调设备	vs;kl yh;kr ks;bg tn;yk ue;yu bw;wt	100
-中央空调设计	vs;kl yh;kr ks;bg tn;yk ue;yu ji;yu	100
-中央空调市场	vs;kl yh;kr ks;bg tn;yk ui;wj ih;tp	100
-中央空调水系统	vs;kl yh;kr ks;bg tn;yk uv;ln xi;px ts;sy	100
-中央空调通风管道	vs;kl yh;kr ks;bg tn;yk ts;zy fg;jx gr;vl dc;zz	100
-中央空调维保	vs;kl yh;kr ks;bg tn;yk ww;sv bc;rm	100
-中央空调维修	vs;kl yh;kr ks;bg tn;yk ww;sv xq;rp	100
-中央空调维修保养	vs;kl yh;kr ks;bg tn;yk ww;sv xq;rp bc;rm yh;yl	100
-中央空调系统	vs;kl yh;kr ks;bg tn;yk xi;px ts;sy	100
-中央空调销售	vs;kl yh;kr ks;bg tn;yk xn;jo uz;rk	100
-中央空调制冷	vs;kl yh;kr ks;bg tn;yk vi;nd lg;ds	100
-中央空调主机	vs;kl yh;kr ks;bg tn;yk vu;wt ji;mj	100
-中央控制系统	vs;kl yh;kr ks;fg vi;nd xi;px ts;sy	100
 中央利益	vs;kl yh;kr li;hd yi;bm	100
 中央六套	vs;kl yh;kr lq;wb tc;dg	100
 中央陆军	vs;kl yh;kr lu;ej jy;bi	100
@@ -332520,8 +332506,6 @@ sort: by_weight
 自动系带	zi;po ds;yl ji;px dd;cj	100
 自动系鞋带	zi;po ds;yl ji;px xp;gt dd;cj	100
 自动驾驶	zi;po ds;yl jx;lm ui;mu	100
-自动驾驶出行服务	zi;po ds;yl jx;lm ui;mu iu;uu xk;rd fu;oy wu;wl	100
-自动驾驶地图	zi;po ds;yl jx;lm ui;mu di;ty tu;kd	100
 自动驾驶辅助系统	zi;po ds;yl jx;lm ui;mu fu;if vu;ql xi;px ts;sy	100
 自动驾驶模式	zi;po ds;yl jx;lm ui;mu mo;md ui;yg	100
 自动驾驶系统	zi;po ds;yl jx;lm ui;mu xi;px ts;sy	100

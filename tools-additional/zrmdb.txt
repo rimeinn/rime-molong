@@ -12483,8 +12483,8 @@
 彥	wp
 彦	ip
 彦	wp
+彧	ph
 彧	kp
-彧	hd
 彧	hp
 彨	pl
 彩	pc
@@ -20165,9 +20165,8 @@
 瞽	og
 瞾	ko
 瞾	ok
-瞿	vo
 瞿	ov
-瞿	vm
+瞿	vo
 矀	ow
 矁	oi
 矂	oz
@@ -24019,7 +24018,7 @@
 萙	cv
 萚	cz
 萛	cc
-萛	cm
+萛	co
 萜	ct
 萝	cl
 萞	cb
@@ -32953,6 +32952,7 @@
 𠄲	wd
 𠄴	yf
 𠄵	aa
+𠄷	ka
 𠄷	ea
 𠄸	aa
 𠄹	aa
@@ -48442,7 +48442,6 @@
 𣦤	dv
 𣦥	vy
 𣦦	so
-𣦦	sm
 𣦧	si
 𣦨	pl
 𣦨	vl
@@ -54525,7 +54524,7 @@
 𥇠	wo
 𥇡	sg
 𥇢	ov
-𥇤	mj
+𥇤	oj
 𥇤	of
 𥇥	ok
 𥇦	ox
@@ -59071,7 +59070,7 @@
 𦕈	eu
 𦕉	eu
 𦕉	ue
-𦕊	ek
+𦕊	eg
 𦕋	ey
 𦕌	eu
 𦕌	ue
@@ -80139,7 +80138,7 @@
 𫡹	aa
 𫡹	ea
 𫡺	wu
-𫡼	mm
+𫡼	wo
 𫡼	mo
 𫡿	wm
 𫢀	wi
@@ -96919,7 +96918,7 @@
 𲐗	ra
 𲐘	rq
 𲐙	rm
-𲐛	rg
+𲐛	rk
 𲐜	rq
 𲐜	rd
 𲐝	rd
@@ -99820,6 +99819,10 @@
 𮐼	cg
 𮮡	ky
 𮮡	ay
+𥌷	ox
+𩢆	mk
+𰀊	kk
+𰀊	ag
 𣮚	mf
 𣴅	df
 𨯾	jj

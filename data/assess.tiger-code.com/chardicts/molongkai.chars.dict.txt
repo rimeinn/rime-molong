@@ -4035,8 +4035,8 @@
 冏	je;kk	68
 蛛	va;iv	67
 逊	xr;zs	67
+彧	yf;ph	67
 彧	yf;kp	67
-彧	yf;hd	67
 彧	yf;hp	67
 咛	nn;kn	67
 澜	lk;dl	67
@@ -6029,9 +6029,8 @@
 担	dj;fd	6
 雉	vt;vu	6
 雉	vt;uv	6
-瞿	qm;vo	6
 瞿	qm;ov	6
-瞿	qm;vm	6
+瞿	qm;vo	6
 湛	vj;du	6
 萦	yn;cs	6
 萦	yn;sb	6
@@ -31451,12 +31450,10 @@
 瞼	jp;oq	1
 瞾	vv;ko	1
 瞾	vv;ok	1
-瞿	jf;vo	1
 瞿	jf;ov	1
-瞿	jf;vm	1
-瞿	jb;vo	1
+瞿	jf;vo	1
 瞿	jb;ov	1
-瞿	jb;vm	1
+瞿	jb;vo	1
 矀	mr;ow	1
 矁	iz;oi	1
 矂	sv;oz	1
@@ -35211,7 +35208,7 @@
 萗	ci;cz	1
 萙	vo;cv	1
 萛	jz;cc	1
-萛	jz;cm	1
+萛	jz;co	1
 萞	bt;cb	1
 萟	yt;cv	1
 萟	yt;cw	1
@@ -49583,7 +49580,6 @@
 𣦢	bt;vp	0
 𣦢	bt;pv	0
 𣦦	gf;so	0
-𣦦	gf;sm	0
 𣦩	gm;vp	0
 𣦪	bw;vy	0
 𣦪	bw;yv	0

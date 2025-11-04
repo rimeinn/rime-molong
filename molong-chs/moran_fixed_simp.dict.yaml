@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20251024"
+version: "20251101"
 sort: original
 columns:
   - text

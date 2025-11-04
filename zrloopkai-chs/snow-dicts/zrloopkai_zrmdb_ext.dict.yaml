@@ -192231,7 +192231,7 @@ use_preset_vocabulary: false
 去陌生的地方	qc;ts mi;eb ug;na de;bu du;ty fh;wd	100
 驱魔师	qv;mq mp;gm ui;ab	100
 驱魔天师	qv;mq mp;gm tm;ad ui;ab	100
-瞿末予	qb;vo mi;ad yn;sa	100
+瞿末予	qb;ov mi;ad yn;sa	100
 去某地	qc;ts mm;mg du;ty	100
 去某个地方	qc;ts mm;mg gw;ra du;ty fh;wd	100
 去墓地	qc;ts my;tm du;ty	100
@@ -192532,7 +192532,7 @@ use_preset_vocabulary: false
 取消限号	qn;ey xc;dx xn;eg hj;kk	100
 取消限行	qn;ey xc;dx xn;eg xu;xi	100
 取消校考	qn;ey xc;dx xx;mj ka;lk	100
-瞿晓星	qb;vo xb;oy xy;ou	100
+瞿晓星	qb;ov xb;oy xy;ou	100
 取消行程	qn;ey xc;dx xu;xi ih;hi	100
 取消隐藏	qn;ey xc;dx yz;ej cj;cz	100
 去校园	qc;ts xx;mj yt;ky	100
@@ -210078,7 +210078,7 @@ use_preset_vocabulary: false
 神学研究所	ug;uu xy;zb yk;uk jq;xj sq;hj	100
 申雪赵宏博	uf;aa xu;yx vj;zi hd;bh bp;uc	100
 审讯结果	uh;bu xo;yu jc;sj gq;tm	100
-神荀彧	ug;uu xq;cx yc;kp	100
+神荀彧	ug;uu xq;cx yc;ph	100
 神眼湖	ug;uu yl;og hi;dh	100
 慎言慎行	ud;xv yk;wk ud;xv xu;xi	100
 沈阳地区	uh;dg yj;eo du;ty qv;ki	100
@@ -243757,7 +243757,7 @@ use_preset_vocabulary: false
 王传喜	wj;aa it;rv xp;uk	100
 网传消息	wk;ki it;rv xc;dx xi;xz	100
 网传信息	wk;ki it;rv xb;ry xi;xz	100
-王春彧	wj;aa ip;of yc;kp	100
+王春彧	wj;aa ip;of yc;ph	100
 王翠玲	wj;aa cc;yz lu;wl	100
 王大锤	wj;aa dl;ad ib;ji	100
 王大导演	wj;aa dl;ad da;cs yl;dy	100
